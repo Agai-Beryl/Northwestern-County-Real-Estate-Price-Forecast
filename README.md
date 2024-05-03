@@ -45,5 +45,6 @@ We analized the price trends of house sales over the months.Notably, February re
 To build our predictive model, we carried out a simple and multiple linear regression. We then did linear regression on our model using the logtransformation model.
 ### Results and Conclusion
 The project developed a regression model predicting home values based on factors like square footage, bedrooms, and bathrooms. It offers insights for buyers and brokers seeking precise price estimates. Bedrooms, bathrooms, and living space significantly impact prices, with larger homes commanding higher values. Property condition, amenities, and market trends are crucial considerations. Continuous model refinement enhances accuracy. Bathrooms positively affect prices, while larger living areas increase value and lot size decreases it. Multi-story homes fetch higher prices, guiding pricing and marketing strategies.
+In summary, this endeavor effectively constructed a regression algorithm aimed at forecasting house values, leveraging diverse attributes including bedroom and bathroom counts, square footage, age, and location. The model demonstrated commendable precision in estimating house prices and shed light on the influential factors affecting housing costs. Such insights can prove invaluable to both real estate professionals and prospective buyers seeking precise assessments of property values based on their specifications.
 ### link to presentation
-> **Link:**[presentation link]()
+> **Link:**[/Presentation%20pdf.pdf]()
